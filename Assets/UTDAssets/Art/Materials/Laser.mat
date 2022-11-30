@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Laser
+  m_Shader: {fileID: -6465566751694194690, guid: 1f66152f6c8a0134a8dc5316a571b0a4,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_59AAFECD:
+        m_Texture: {fileID: 2800000, guid: 888876965f3dbde41ad4001784c3c34d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_CF1F418E:
+        m_Texture: {fileID: 2800000, guid: 6ccd6202a44f22c46b5c9740a0d76473, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_3FFE921E: 0.051
+    - Vector1_58E3A4E5: 2
+    - Vector1_FCE654F9: 0.164
+    - Vector1_FFF05946: 25
+    m_Colors:
+    - Color_E9BE2DCD: {r: 11.984314, g: 11.984314, b: 11.984314, a: 1}
+    - Vector2_25D343A6: {r: -0.5, g: 0, b: 0, a: 0}
+    - Vector2_2C78CF33: {r: 0.7, g: 0, b: 0, a: 0}
